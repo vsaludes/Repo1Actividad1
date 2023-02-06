@@ -1,4 +1,4 @@
-package paqueteVictor;
+package victor;
 
 public class Victor {
 
